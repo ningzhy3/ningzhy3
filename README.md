@@ -1,4 +1,13 @@
-### Hi there 👋
+👨‍🎓 Student
+
+💻 Software Development
+
+⌨️ Java & Python
+
+❤️ Open source lover
+
+Wechat: ningzhy1
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ningzhy3)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ningzhy3&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
