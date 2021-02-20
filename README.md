@@ -1,14 +1,14 @@
 ### 🎓 SYSU & NYU
 
-💻 Software Development
+### 💻 Software Development
 
-⌨️ Java & Python
+### ⌨️ Java & Python
 
-❤️ Open source lover
+### ❤️ Open source lover
 
-⚡ Fun fact: I once peeled 100 garlic in half an hour.
+### ⚡ Fun fact: I once peeled 100 garlic in half an hour.
 
-👬 Wechat: ningzhy1
+### 👬 Wechat: ningzhy1
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ningzhy3)](https://github.com/anuraghazra/github-readme-stats)
 
