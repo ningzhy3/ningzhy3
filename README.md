@@ -1,4 +1,4 @@
-🎓 SYSU & NYU
+### 🎓 SYSU & NYU
 
 💻 Software Development
 
