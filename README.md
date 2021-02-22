@@ -1,17 +1,26 @@
 ### 🎓 SYSU & NYU
 
+
 ### 💻 Software Development
+
 
 ### ⌨️ Java & Python
 
+
 ### ❤️ Open source lover
+
 
 ### ⚡ Fun fact: I once peeled 100 garlic in half an hour.
 
+
 ### 👬 Wechat: ningzhy1
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ningzhy3)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ningzhy3&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ningzhy3)](https://github.com/anuraghazra/github-readme-stats)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ningzhy3&layout=compact&langs_count=6)
+
+![VISITOR COUNT](https://visitor-badge.glitch.me/badge?page_id=ningzhy3.ningzhy3)
 
 
 <!--
