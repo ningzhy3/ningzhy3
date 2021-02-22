@@ -1,16 +1,16 @@
-### 🎓 SYSU & NYU
+### 🎓     SYSU & NYU
 
 
-### 💻 Software Development
+### 💻     Software Development
 
 
-### ⌨️ Java & Python
+### ⌨️     Java & Python
 
 
-### ❤️ Open source lover
+### ❤️     Open source lover
 
 
-### ⚡ Fun fact: I once peeled 100 garlic in half an hour.
+### ⚡     Fun fact: I once peeled 100 garlic in half an hour.
 
 
 ### 👬 Wechat: ningzhy1
