@@ -4,7 +4,7 @@
 ### 💻     Software Development
 
 
-### ⌨️     Java & Python
+### ⌨️     Java & Python & Go
 
 
 ### ❤️     Open source lover
